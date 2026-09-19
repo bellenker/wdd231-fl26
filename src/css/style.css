@@ -234,7 +234,13 @@ a:hover {
 
 /*Park Navigation Styling */
 
-
+.park-nav > ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  display: flex;
+  
+}
 
 /* Utility styles */
 
