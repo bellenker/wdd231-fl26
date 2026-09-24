@@ -1,0 +1,166 @@
+[{
+    "recipe_name": "Chocolate Chip Cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "measure": {
+                "amount": "1",
+                "size": "lb"
+            },
+            "note": "softened"
+        },
+        {
+            "name": "brown sugar",
+            "measure": {
+                "amount": "1 - 1/2",
+                "size": "cups"
+            }
+        },
+        {
+            "name": "white sugar",
+            "measure": {
+                "amount": "1",
+                "size": "cup"
+            }
+        },
+        {
+            "name": "eggs",
+            "measure": {
+                "amount": "3",
+                "size": "large"
+            }
+        },
+        {
+            "name": "vanilla",
+            "measure": {
+                "amount": "2",
+                "size": "tsp"
+            }
+        },
+        {
+            "name": "baking soda",
+            "measure": {
+                "amount": "1 - 1/2",
+                "size": "tsp"
+            }
+        },
+        {
+            "name": "salt",
+            "measure": {
+                "amount": "1/2",
+                "size": "tsp"
+            }
+        },
+        {
+            "name": "flour",
+            "measure": {
+                "amount": "5",
+                "size": "cups"
+            },
+            "note": "we like 3 cups white and 2 cups whole wheat"
+        },
+        {
+            "name": "semi-sweet chocolate chips",
+            "measure": {
+                "amount": "2",
+                "size": "cups"
+            }
+        },
+        {
+            "name": "shredded coconut",
+            "measure": {
+                "amount": "1-2",
+                "size": "cups"
+            }
+        }
+    ],
+    "steps": [
+        "1. Cream the butter and sugar together, then beat in the eggs",
+        "2. Mix in the salt, soda, and flour",
+        "3. Add chocolate chips and cocount",
+        "4. Bake 8-10 minutes at 350 F."
+    ]
+},
+{
+    "recipe_name": "Chocolate Chip Cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "measure": {
+                "amount": "1",
+                "size": "lb"
+            },
+            "note": "softened"
+        },
+        {
+            "name": "brown sugar",
+            "measure": {
+                "amount": "1 - 1/2",
+                "size": "cups"
+            }
+        },
+        {
+            "name": "white sugar",
+            "measure": {
+                "amount": "1",
+                "size": "cup"
+            }
+        },
+        {
+            "name": "eggs",
+            "measure": {
+                "amount": "3",
+                "size": "large"
+            }
+        },
+        {
+            "name": "vanilla",
+            "measure": {
+                "amount": "2",
+                "size": "tsp"
+            }
+        },
+        {
+            "name": "baking soda",
+            "measure": {
+                "amount": "1 - 1/2",
+                "size": "tsp"
+            }
+        },
+        {
+            "name": "salt",
+            "measure": {
+                "amount": "1/2",
+                "size": "tsp"
+            }
+        },
+        {
+            "name": "flour",
+            "measure": {
+                "amount": "5",
+                "size": "cups"
+            },
+            "note": "we like 3 cups white and 2 cups whole wheat"
+        },
+        {
+            "name": "semi-sweet chocolate chips",
+            "measure": {
+                "amount": "2",
+                "size": "cups"
+            }
+        },
+        {
+            "name": "shredded coconut",
+            "measure": {
+                "amount": "1-2",
+                "size": "cups"
+            }
+        }
+    ],
+    "steps": [
+        "1. Cream the butter and sugar together, then beat in the eggs",
+        "2. Mix in the salt, soda, and flour",
+        "3. Add chocolate chips and cocount",
+        "4. Bake 8-10 minutes at 350 F."
+    ]
+}]
