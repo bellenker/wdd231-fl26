@@ -203,7 +203,7 @@ export const parkInfoLinks = [
   }
 ];
 
-export async function getParkData() {
+async function getJson(url) {
   const options = {
     method: "GET",
     headers: {
@@ -217,5 +217,9 @@ export async function getParkData() {
     data = await response.json();
   }
   else throw new Error("response not ok")
-  return data.data[0];
+  return data;
+}
+export async function getParkData() {
+  const parkData = await getJson("parks?parkCode=yell");
+  return parkData.data[0];
 }
